@@ -1,4 +1,4 @@
-apt-repository "hipchat" do
+apt_repository "hipchat" do
     uri "http://downloads.hipchat.com/linux/apt"
     distribution "stable"
     components "main"
